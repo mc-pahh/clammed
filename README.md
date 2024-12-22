@@ -1,3 +1,3 @@
 # clammed
 
-![image](https://github.com/user-attachments/assets/f8516ee4-ecd3-41ef-8521-8955dc508c72)
+[![CLA assistant](https://cla-assistant.io/readme/badge/mc-pahh/clammed)](https://cla-assistant.io/mc-pahh/clammed)
